@@ -2,4 +2,4 @@
 |:------------|:-------------|:-------------|-------:|-------:|-------:|-------:|-------:|-------:|-----:|-----:|
 | Horseman    | Bojack       | empty-list   |    nan |    nan |    nan |    nan |    nan |    nan |  nan |  nan |
 | Nguyen      | Diane        | empty-list   |    nan |    nan |    nan |    nan |    nan |    nan |  nan |  nan |
-| Chavez      | Todd         | empty-list   |    nan |    nan |    nan |    nan |    nan |    nan |  nan |  nan |
+| Chavez      | Todd         | Cogwheelhead |    nan |    nan |    nan |    nan |    nan |    nan |  nan |  nan |
