@@ -1,2 +1,3 @@
 some content
-bad commit messages
+an okay commit message
+and a bad one
