@@ -1,5 +1,5 @@
 | last name   | first name   | github login   | lb1   | lb2   | lb3   | lb4   |   ts1 | ts2   | tp   | pj   |
 |:------------|:-------------|:---------------|:------|:------|:------|:------|------:|:------|:-----|:-----|
-| Horseman    | Bojack       | empty-list     |       |       |     u |       |       |       |      |      |
-| Nguyen      | Diane        | empty-list     |     + |     x |       |       |       |       |      |      |
-| Chavez      | Todd         | Cogwheelhead   |     - |       |       |     y |       |       |      |      |
+| Horseman    | Bojack       | empty-list     |       |       |       |       |     2 |       |      |      |
+| Nguyen      | Diane        | empty-list     |       |       |       |       |     5 |       |      |      |
+| Chavez      | Todd         | Cogwheelhead   |       |       |       |       |     3 |       |      |      |
